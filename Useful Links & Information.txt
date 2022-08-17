@@ -1,0 +1,42 @@
+Open Data Portals list:
+
+https://datacatalogs.org/
+
+---
+Others:
+
+https://data.un.org/
+https://data.gov/ (USA)
+https://data.europa.eu/en
+---
+
+kaggle:
+
+https://www.kaggle.com/datasets
+
+---
+
+Google:
+
+https://datasetsearch.research.google.com/
+
+---
+
+
+link/Info about tar utility:
+
+https://opensource.com/article/17/7/how-unzip-targz-file?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDS0105ENSkillsNetwork20083975-2022-01-01
+
+---
+
+DAX:
+
+https://developer.ibm.com/  >> Open source >> DAX
+
+MAX:
+
+http://ml-exchange.org/models 
+
+
+---
+
